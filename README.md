@@ -3,7 +3,7 @@
 
 ### The task is about understanding the behavior of riders, what is the difference between them? and how can we encourage simple user to annual membership?
 
-# for the Data cleaning and Manipulation, we used Rstudio and worked mainly with the tidyverse and dplyr packages. As for the Data Visualization we used Tableau.
+### for the Data cleaning and Manipulation, we used Rstudio and worked mainly with the tidyverse and dplyr packages. As for the Data Visualization we used Tableau.
 
 For the datasets we worked with the previous 12 months of trip data, in the link below:
 
